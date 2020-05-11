@@ -1,0 +1,14 @@
+C:\Users\antuan\source\repos\BirkelimeBirişlem\BirkelimeBirişlem\bin\Debug\BirkelimeBirişlem.exe.config
+C:\Users\antuan\source\repos\BirkelimeBirişlem\BirkelimeBirişlem\bin\Debug\BirkelimeBirişlem.exe
+C:\Users\antuan\source\repos\BirkelimeBirişlem\BirkelimeBirişlem\bin\Debug\BirkelimeBirişlem.pdb
+C:\Users\antuan\source\repos\BirkelimeBirişlem\BirkelimeBirişlem\obj\Debug\BirkelimeBirişlem.csprojAssemblyReference.cache
+C:\Users\antuan\source\repos\BirkelimeBirişlem\BirkelimeBirişlem\obj\Debug\BirkelimeBirişlem.Form1.resources
+C:\Users\antuan\source\repos\BirkelimeBirişlem\BirkelimeBirişlem\obj\Debug\BirkelimeBirişlem.Properties.Resources.resources
+C:\Users\antuan\source\repos\BirkelimeBirişlem\BirkelimeBirişlem\obj\Debug\BirkelimeBirişlem.csproj.GenerateResource.cache
+C:\Users\antuan\source\repos\BirkelimeBirişlem\BirkelimeBirişlem\obj\Debug\BirkelimeBirişlem.exe
+C:\Users\antuan\source\repos\BirkelimeBirişlem\BirkelimeBirişlem\obj\Debug\BirkelimeBirişlem.pdb
+C:\Users\antuan\source\repos\BirkelimeBirişlem\BirkelimeBirişlem\obj\Debug\BirkelimeBirişlem.Form2.resources
+C:\Users\antuan\source\repos\BirkelimeBirişlem\BirkelimeBirişlem\bin\Debug\HtmlAgilityPack.dll
+C:\Users\antuan\source\repos\BirkelimeBirişlem\BirkelimeBirişlem\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\antuan\source\repos\BirkelimeBirişlem\BirkelimeBirişlem\bin\Debug\HtmlAgilityPack.xml
+C:\Users\antuan\source\repos\BirkelimeBirişlem\BirkelimeBirişlem\obj\Debug\BirkelimeBirişlem.csproj.CopyComplete
