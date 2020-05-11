@@ -171,9 +171,7 @@ namespace BirkelimeBirişlem
                 radioButton9.Visible = true;
                 radioButton10.Visible = true;
                 radioButton11.Visible = true;
-                label4.Visible = true;
-                button3.Visible = true;
-                label5.Text ="Hedef Sayı : " + btnSayiHedef.Text;
+
 
             }
             
@@ -256,7 +254,6 @@ namespace BirkelimeBirişlem
             radioButton11.Visible = false;
             label4.Visible = false;
             btnSayiGetir.Visible = false;
-            button3.Visible = false;
         }
 
         private void btnHelp_Click(object sender, EventArgs e)
@@ -593,45 +590,16 @@ namespace BirkelimeBirişlem
         
         private void button3_Click_2(object sender, EventArgs e)
         {
-                this.Width = 893;
-            button3.Visible = false;
-            button4.Visible = true;
 
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-            this.Width = 572;
-            button4.Visible = false;
-            button3.Visible = true;
         }
         
         private void button5_Click(object sender, EventArgs e)
         {
-            int a, b,c=0;
             
-            a = Convert.ToInt32(textBoxtahta1.Text);
-            b = Convert.ToInt32(textBoxtahta2.Text);
-            if (radiotopla.Enabled==true)
-            {   
-                c+=a+b;
-                label6.Text = c.ToString();
-            }
-            if (radioçıkar.Enabled == true)
-            {
-                c += a - b;
-                label6.Text = c.ToString();
-            }
-            if (radioçarp.Enabled == true)
-            {
-                c += a * b;
-                label6.Text = c.ToString();
-            }
-            if (radioböl.Enabled == true)
-            {
-                c += a / b;
-                label6.Text = c.ToString();
-            }
         }
     }
 }
